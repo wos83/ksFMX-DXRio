@@ -19,4 +19,4 @@ http://www.kernow-software.co.uk/?page_id=397
 Any suggestions for updates are welcome :-) 
 
 Modified:
-Components of KernowSoftwareFMX for Delphi 10.3 Rio by m.me/WOS83
+Components of KernowSoftwareFMX for Delphi 10.3 Rio by https://m.me/WOS83
